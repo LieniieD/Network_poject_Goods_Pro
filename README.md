@@ -24,7 +24,7 @@ Configurations are still being fine-tuned, and we are planning **future scalabil
 - **Architecture:** Spine & Leaf, Enterprise Branch Module.
 - **Resilience:** Dual ISP Failover, HSRP.
 
-### 🔹 **Equipment**
+### 🔹 **Equipment** - tentative version
 | Category | Device | Quantity | Approx. Cost |
 |----------|--------|----------|--------------|
 | Routers | Cisco ISR 1100 | 2 | ~€1800 |
