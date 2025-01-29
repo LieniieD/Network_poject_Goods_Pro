@@ -3,7 +3,7 @@
 # Branch Office Network
 
 ## 📖 Project Description
-This project focuses on designing, implementing, and enhancing the **Proximus** branch office network infrastructure. Using **Cisco** technologies, we aim to build a **stable, secure, and efficient** network.
+This project focuses on designing, implementing, and enhancing the branch office network infrastructure. Using **Cisco** technologies, we aim to build a **stable, secure, and efficient** network.
 
 ⚠️ **This project is ongoing!**  
 Configurations are still being fine-tuned, and we are planning **future scalability and enhancements** to optimize network performance and security.
